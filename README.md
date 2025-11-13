@@ -3,9 +3,6 @@
 modificando archivo
 y agregando lineas
 
-#### new subsection
 
-lines
-
-more lines
-
+#### new change
+eliminando lineas desde clon
